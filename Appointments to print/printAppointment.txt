@@ -1,0 +1,6 @@
+********* Appointment 1 Information *********
+Appointment Date: 2022-09-02
+Center ID: 1879
+User SSN: 1113547168
+is Completed? true
+Vaccine SNI: 55667111  Current Status: fully vaccinated
